@@ -1,1 +1,2 @@
 Starting my Git Journey.
+My journey evolves into an adventure with Git.
